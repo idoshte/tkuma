@@ -1,0 +1,7 @@
+pandas
+numpy
+geopandas
+folium
+pillow
+selenium
+leafmap
